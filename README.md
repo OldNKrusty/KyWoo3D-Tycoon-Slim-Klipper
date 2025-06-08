@@ -1,2 +1,4 @@
-# KyWoo3D-Tycoon-Slim-Klipper
-Instructions for setting up Klipper on stock mainboard for a KyWoo3D Tycoon Slim
+# Klipper Flashing Guide  
+This repository contains instructions for flashing Klipper firmware. Click the link below to view the full guide:  
+
+📄 [View Klipper Flashing Guide](./klipper_flashing.pdf)
